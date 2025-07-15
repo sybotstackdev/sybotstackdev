@@ -1,4 +1,3 @@
-🤖 SybotStack
 Welcome to SybotStack — your go-to IT services hub for modern web, cloud, and automation solutions. We specialize in building scalable, secure, and lightning-fast digital infrastructure using Node.js, Next.js, React, Angular, AWS, Stripe, Vercel, and more.
 
 🚀 What We Do
