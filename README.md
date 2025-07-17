@@ -1,59 +1,122 @@
-Welcome to SybotStack — your go-to IT services hub for modern web, cloud, and automation solutions. We specialize in building scalable, secure, and lightning-fast digital infrastructure using Node.js, Next.js, React, Angular, AWS, Stripe, Vercel, and more.
+# 🌐 SybotStack
 
-🚀 What We Do
-At SybotStack, we craft robust solutions for:
+A global powerhouse for modern **Web**, **Cloud**, and **Automation** solutions.  
+We craft scalable, secure, and lightning-fast digital infrastructure using cutting-edge tools like **Node.js**, **Next.js**, **React**, **AWS**, **Stripe**, and **Vercel**.
 
-🌐 Full-stack Web Development (React / Next.js / Angular / Node.js)
-☁️ Cloud Infrastructure (AWS, Vercel, Cloudflare)
-🔌 API Integrations (Stripe, Twilio, Auth0, REST, GraphQL)
-🔐 DevOps & CI/CD (GitHub Actions, GitLab CI, Docker)
-📊 Dashboards, Portals & Admin Panels
-🛠 Automation, Bots, and Internal Tools
-We combine creativity, code, and cloud to help businesses scale faster.
+---
 
-🧰 Core Tech Stack
-Area	Tools / Platforms
-Frontend	Next.js, React, Angular, Tailwind CSS
-Backend	Node.js, Express, REST, GraphQL
-CI/CD	GitHub Actions, GitLab Pipelines
-Cloud Hosting	Vercel, AWS (EC2, S3, Lambda, Route 53, RDS, etc.)
-Payments	Stripe, Webhooks
-Auth	Auth0, Clerk, Firebase Auth
-Database	PostgreSQL, MongoDB, Prisma, Supabase
-Dev Tools	Docker, Postman, TurboRepo
-🧠 Useful Resources
-🔗 Next.js Docs
-🔗 Angular Docs
-🔗 Stripe Docs
-🔗 AWS Docs
-🔗 GitHub Actions Docs
-🔗 Markdown Guide
-Stay tuned for our public docs, starter templates, and component kits.
+## 🧑‍💻 Sobre Nosotros (Español)
 
-🤝 Contribution Guidelines
-We 💙 collaboration! Here's how you can get involved:
+Una plataforma moderna que combina la nube, la web y la automatización para crear infraestructuras digitales seguras y escalables.  
+En **SybotStack**, desarrollamos soluciones robustas usando herramientas como **Node.js**, **Next.js**, **React**, **AWS** y **Stripe**.
 
-Fork the repo and clone it.
+Nos especializamos en:
 
-Create a new branch:
+- Desarrollo Web Full Stack  
+- Infraestructura en la nube  
+- Integraciones API (Stripe, Twilio)  
+- Automatización y herramientas internas  
+- Paneles de control, dashboards y más
 
+¿Tienes una idea o proyecto? Contáctanos, ¡nos encantaría ayudarte!  
+📧 sybotstack@gmail.com
+
+---
+
+## 📬 Contact Us
+
+<div align="left">
+  <a href="mailto:sybotstack@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sybotstack@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</div>
+
+---
+
+## 🚀 What We Do
+
+At **SybotStack**, we bring together **creativity**, **code**, and **cloud** to deliver:
+
+- 🌐 Full-stack Web Development (React / Next.js / Angular / Node.js)  
+- ☁️ Cloud Infrastructure (AWS, Vercel, Cloudflare)  
+- 🔌 API Integrations (Stripe, Twilio, Auth0, REST, GraphQL)  
+- 🔐 DevOps & CI/CD (GitHub Actions, GitLab CI, Docker)  
+- 📊 Dashboards, Portals & Admin Panels  
+- 🤖 Automation, Bots, and Internal Tools  
+
+---
+
+## 🧰 Languages & Tools
+
+| **Area**       | **Tools / Platforms** |
+|----------------|------------------------|
+| **Frontend**   | Next.js, React, Angular, Tailwind CSS |
+| **Backend**    | Node.js, Express, REST, GraphQL |
+| **CI/CD**      | GitHub Actions, GitLab Pipelines |
+| **Cloud**      | Vercel, AWS (EC2, S3, Lambda, RDS, Route 53) |
+| **Payments**   | Stripe, Webhooks |
+| **Auth**       | Auth0, Clerk, Firebase Auth |
+| **Databases**  | PostgreSQL, MongoDB, Prisma, Supabase |
+| **Dev Tools**  | Docker, Postman, TurboRepo |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,js,ts,nodejs,express,graphql,aws,vercel,docker,prisma,supabase,mongodb,postgres,stripe,auth0,git,github,postman" />
+</p>
+
+---
+
+## 📘 Resources
+
+- [Next.js Documentation](https://nextjs.org/docs)  
+- [Angular Docs](https://angular.io/docs)  
+- [Stripe Docs](https://stripe.com/docs)  
+- [AWS Docs](https://docs.aws.amazon.com/)  
+- [GitHub Actions Docs](https://docs.github.com/en/actions)  
+- [Markdown Guide](https://www.markdownguide.org/)
+
+---
+
+## 🤝 Contribution Guidelines
+
+We 💙 community contributions! Here's how to get involved:
+
+```bash
+# 1. Fork and clone
+git clone https://github.com/your-username/sybotstack
+
+# 2. Create a new branch
 git checkout -b feature/amazing-idea
-Commit your changes:
 
-git commit -m 'Add amazing idea 🚀'
-Push your branch and open a Pull Request.
+# 3. Make your changes and commit
+git commit -m 'feat: Add amazing idea 🚀'
 
-We follow conventional commits + lint checks for all PRs.
+# 4. Push and open a PR
+git push origin feature/amazing-idea
+```
 
-💼 Want to Work with Us?
-We partner with startups, SaaS companies, and enterprises for:
+> We follow **conventional commits** and run **lint checks** for every PR.
 
-MVPs and prototypes
-Production-ready platforms
-Infrastructure scaling
-Developer enablement
+---
 
-📬 Contact us at: sybotstack@gmail.com
+## 💼 Let’s Build Together
 
-🍳 Fun Fact
-The team powers up with ☕ coffee and 🍜 Maggi during late-night sprints. Also, someone once deployed a full Stripe checkout flow during lunch. 😄
+We work with **startups**, **SaaS companies**, and **enterprises** to:
+
+- Launch MVPs & prototypes  
+- Build production-grade platforms  
+- Scale infrastructure  
+- Empower developers  
+
+📩 Reach us at **sybotstack@gmail.com**
+
+---
+
+## 🍜 Fun Fact
+
+We thrive on ☕ coffee and 🍜 Maggi during intense late-night sprints.  
+Someone once deployed a full **Stripe checkout flow** during lunch. True story 😄
+
+---
