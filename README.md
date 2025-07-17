@@ -5,34 +5,28 @@ We craft scalable, secure, and lightning-fast digital infrastructure using cutti
 
 ---
 
-## 🧑‍💻 Sobre Nosotros (Español)
+## 🧑‍💻 About Us
 
-Una plataforma moderna que combina la nube, la web y la automatización para crear infraestructuras digitales seguras y escalables.  
-En **SybotStack**, desarrollamos soluciones robustas usando herramientas como **Node.js**, **Next.js**, **React**, **AWS** y **Stripe**.
+A modern platform combining cloud, web, and automation to build secure and scalable digital infrastructure.  
+At **SybotStack**, we develop robust solutions using tools like **Node.js**, **Next.js**, **React**, **AWS**, and **Stripe**.
 
-Nos especializamos en:
+We specialize in:
 
-- Desarrollo Web Full Stack  
-- Infraestructura en la nube  
-- Integraciones API (Stripe, Twilio)  
-- Automatización y herramientas internas  
-- Paneles de control, dashboards y más
+- Full Stack Web Development  
+- Cloud Infrastructure  
+- API Integrations (Stripe, Twilio)  
+- Automation & Internal Tools  
+- Control Panels, Dashboards, and more
 
-¿Tienes una idea o proyecto? Contáctanos, ¡nos encantaría ayudarte!  
+Have a project in mind? Contact us — we’d love to help!  
 📧 sybotstack@gmail.com
 
 ---
 
 ## 📬 Contact Us
 
-<div align="left">
-  <a href="mailto:sybotstack@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sybotstack@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</div>
+[![Email](https://img.shields.io/badge/Email-sybotstack@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sybotstack@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
 ---
 
@@ -62,9 +56,7 @@ At **SybotStack**, we bring together **creativity**, **code**, and **cloud** to 
 | **Databases**  | PostgreSQL, MongoDB, Prisma, Supabase |
 | **Dev Tools**  | Docker, Postman, TurboRepo |
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,js,ts,nodejs,express,graphql,aws,vercel,docker,prisma,supabase,mongodb,postgres,stripe,auth0,git,github,postman" />
-</p>
+![Tech Icons](https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,js,ts,nodejs,express,graphql,aws,vercel,docker,prisma,supabase,mongodb,postgres,stripe,auth0,git,github,postman)
 
 ---
 
