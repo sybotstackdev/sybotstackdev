@@ -1,7 +1,7 @@
 # 🌐 SybotStack
 
 A global powerhouse for modern **Web**, **Cloud**, and **Automation** solutions.  
-We craft scalable, secure, and lightning-fast digital infrastructure using cutting-edge tools like **Node.js**, **Next.js**, **React**, **AWS**, **Stripe**, and **Vercel**.
+We craft scalable, secure, and lightning-fast digital infrastructure using cutting-edge tools like **Node.js**, **Next.js**, **React**, **Angular**, **AWS**, **Stripe**, and **Vercel**.
 
 ---
 
