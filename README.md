@@ -26,7 +26,6 @@ Have a project in mind? Contact us — we’d love to help!
 ## 📬 Contact Us
 
 [![Email](https://img.shields.io/badge/Email-sybotstack@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sybotstack@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
 ---
 
@@ -77,7 +76,7 @@ We 💙 community contributions! Here's how to get involved:
 
 ```bash
 # 1. Fork and clone
-git clone https://github.com/your-username/sybotstack
+git clone https://github.com/sybotstackdev/sybotstack
 
 # 2. Create a new branch
 git checkout -b feature/amazing-idea
