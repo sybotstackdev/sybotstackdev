@@ -1,4 +1,4 @@
-# **Full Stack Development Team**
+# **SYBOTSTACK**
 
 We specialize in modern **Web**, **Cloud**, and **Automation** solutions.
 Our team crafts scalable, secure, and lightning-fast applications using tools like **Node.js**, **Next.js**, **React**, **Angular**, **AWS**, **Stripe**, and **Vercel**.
