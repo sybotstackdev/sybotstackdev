@@ -1,14 +1,16 @@
-I’m a **Full Stack Developer** specializing in modern **Web**, **Cloud**, and **Automation** solutions.
-I craft scalable, secure, and lightning-fast applications using tools like **Node.js**, **Next.js**, **React**, **Angular**, **AWS**, **Stripe**, and **Vercel**.
+# **Full Stack Development Team**
+
+We specialize in modern **Web**, **Cloud**, and **Automation** solutions.
+Our team crafts scalable, secure, and lightning-fast applications using tools like **Node.js**, **Next.js**, **React**, **Angular**, **AWS**, **Stripe**, and **Vercel**.
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Us
 
-I build secure and scalable digital infrastructure by combining **cloud**, **web**, and **automation**.
-With hands-on experience across the stack, I develop robust solutions using tools like **Node.js**, **Next.js**, **React**, **AWS**, and **Stripe**.
+We build secure and scalable digital infrastructure by combining **cloud**, **web**, and **automation**.
+With hands-on experience across the stack, we develop robust solutions using **Node.js**, **Next.js**, **React**, **AWS**, and **Stripe**.
 
-I specialize in:
+We specialize in:
 
 * Full Stack Web Development
 * Cloud Infrastructure & Deployment
@@ -16,19 +18,19 @@ I specialize in:
 * Automation & Internal Tools
 * Dashboards, Control Panels, and Admin Portals
 
-💌 Reach me at: **[sybotstack@gmail.com](mailto:sybotstack@gmail.com)**
+💌 Reach us at: **[sybotstack@gmail.com](mailto:sybotstack@gmail.com)**
 
 ---
 
-## 📬 Contact Me
+## 📬 Contact Us
 
 [![Email](https://img.shields.io/badge/Email-sybotstack@gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sybotstack@gmail.com)
 
 ---
 
-## 🚀 What I Do
+## 🚀 What We Do
 
-I bring together **creativity**, **code**, and **cloud** to deliver:
+We bring together **creativity**, **code**, and **cloud** to deliver:
 
 * 🌐 Full-stack Web Development (React / Next.js / Angular / Node.js)
 * ☁️ Cloud Infrastructure (AWS, Vercel, Cloudflare)
@@ -39,7 +41,7 @@ I bring together **creativity**, **code**, and **cloud** to deliver:
 
 ---
 
-## 🧰 My Tech Stack
+## 🧰 Our Tech Stack
 
 | **Area**      | **Tools / Platforms**                        |
 | ------------- | -------------------------------------------- |
@@ -56,7 +58,7 @@ I bring together **creativity**, **code**, and **cloud** to deliver:
 
 ---
 
-## 📘 Helpful Resources I Use
+## 📘 Helpful Resources We Use
 
 * [Next.js Documentation](https://nextjs.org/docs)
 * [Angular Docs](https://angular.io/docs)
@@ -69,19 +71,18 @@ I bring together **creativity**, **code**, and **cloud** to deliver:
 
 ## 💼 Let’s Work Together
 
-I collaborate with **startups**, **SaaS companies**, and **enterprises** to:
+We collaborate with **startups**, **SaaS companies**, and **enterprises** to:
 
 * Build MVPs & prototypes
 * Develop production-grade platforms
 * Scale infrastructure
 * Automate workflows
 
-📩 Drop me a message: **[sybotstack@gmail.com](mailto:sybotstack@gmail.com)**
+📩 Drop us a message: **[sybotstack@gmail.com](mailto:sybotstack@gmail.com)**
 
 ---
 
 ## 🍜 Fun Fact
 
 Fueled by ☕ coffee and 🍜 Maggi during late-night sprints.
-One time, I built and deployed a full **Stripe checkout flow** during lunch 😄
-
+One time, we built and deployed a full **Stripe checkout flow** during lunch 😄
