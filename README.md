@@ -4,6 +4,7 @@ I’m a **Full Stack Developer** specializing in modern **Web, Cloud, and Automa
 
 I build scalable, secure, and high-performance applications using technologies like **Next.js, React, Node.js, Angular, AWS, Stripe, and Vercel**.
 
+SybotStack is my personal development brand, focused on building modern web applications, automation solutions, and scalable digital products.
 ---
 
 ## 🧑‍💻 About Me
