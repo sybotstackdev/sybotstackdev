@@ -1,88 +1,103 @@
-# **SYBOTSTACK**
+# **YASH**
 
-We specialize in modern **Web**, **Cloud**, and **Automation** solutions.
-Our team crafts scalable, secure, and lightning-fast applications using tools like **Node.js**, **Next.js**, **React**, **Angular**, **AWS**, **Stripe**, and **Vercel**.
+I’m a **Full Stack Developer** specializing in modern **Web, Cloud, and Automation** solutions.
+
+I build scalable, secure, and high-performance applications using technologies like **Next.js, React, Node.js, Angular, AWS, Stripe, and Vercel**.
 
 ---
 
-## 🧑‍💻 About Us
+## 🧑‍💻 About Me
 
-We build secure and scalable digital infrastructure by combining **cloud**, **web**, and **automation**.
-With hands-on experience across the stack, we develop robust solutions using **Node.js**, **Next.js**, **React**, **AWS**, and **Stripe**.
+I’m a full stack developer focused on building reliable and scalable digital products.
 
-We specialize in:
+I work across the frontend, backend, cloud infrastructure, APIs, and third-party integrations to turn ideas into production-ready applications.
+
+### I specialize in:
 
 * Full Stack Web Development
 * Cloud Infrastructure & Deployment
-* API Integrations (Stripe, Twilio, Auth0)
+* API & Third-Party Integrations
 * Automation & Internal Tools
-* Dashboards, Control Panels, and Admin Portals
+* Dashboards, Control Panels & Admin Portals
+* SaaS Applications & MVP Development
 
-💌 Reach us at: **[sybotstack@gmail.com](mailto:sybotstack@gmail.com)**
-
----
-
-## 📬 Contact Us
-
-[![Email](https://img.shields.io/badge/Email-sybotstack@gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sybotstack@gmail.com)
+💌 Reach me at: **[joywithyash2@gmail.com](mailto:joywithyash2@gmail.com)**
 
 ---
 
-## 🚀 What We Do
+## 📬 Contact Me
 
-We bring together **creativity**, **code**, and **cloud** to deliver:
+[![Email](https://img.shields.io/badge/Email-joywithyash2@gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:joywithyash2@gmail.com)
 
-* 🌐 Full-stack Web Development (React / Next.js / Angular / Node.js)
-* ☁️ Cloud Infrastructure (AWS, Vercel, Cloudflare)
-* 🔌 API Integrations (Stripe, Twilio, REST, GraphQL)
-* 🔐 DevOps & CI/CD (GitHub Actions, Docker, Pipelines)
+---
+
+## 🚀 What I Do
+
+I combine **clean design, scalable code, and cloud technologies** to build:
+
+* 🌐 Full-stack Web Applications — React / Next.js / Angular / Node.js
+* ☁️ Cloud Infrastructure — AWS / Vercel / Cloudflare
+* 🔌 API Integrations — Stripe / Twilio / REST / GraphQL
+* 🔐 DevOps & CI/CD — GitHub Actions / Docker / Pipelines
 * 📊 Dashboards, Portals & Admin Panels
-* 🤖 Automation, Bots, and Internal Tools
+* 🤖 Automation, Bots & Internal Tools
+* 💳 Payment & Subscription Systems
 
 ---
 
-## 🧰 Our Tech Stack
+## 🧰 My Tech Stack
 
-| **Area**      | **Tools / Platforms**                        |
-| ------------- | -------------------------------------------- |
-| **Frontend**  | Next.js, React, Angular, Tailwind CSS        |
-| **Backend**   | Node.js, Express, REST, GraphQL              |
-| **CI/CD**     | GitHub Actions, GitLab Pipelines             |
-| **Cloud**     | Vercel, AWS (EC2, S3, Lambda, RDS, Route 53) |
-| **Payments**  | Stripe, Webhooks                             |
-| **Auth**      | Auth0, Clerk, Firebase Auth                  |
-| **Databases** | PostgreSQL, MongoDB, Prisma, Supabase        |
-| **Dev Tools** | Docker, Postman, TurboRepo                   |
+| **Area**      | **Tools / Platforms**                 |
+| ------------- | ------------------------------------- |
+| **Frontend**  | Next.js, React, Angular, Tailwind CSS |
+| **Backend**   | Node.js, Express, REST, GraphQL       |
+| **Languages** | JavaScript, TypeScript                |
+| **CI/CD**     | GitHub Actions, GitLab Pipelines      |
+| **Cloud**     | Vercel, AWS, Cloudflare               |
+| **Payments**  | Stripe, Webhooks                      |
+| **Auth**      | Auth0, Clerk, Firebase Auth           |
+| **Databases** | PostgreSQL, MongoDB, Prisma, Supabase |
+| **Dev Tools** | Docker, Postman, TurboRepo, Git       |
 
 ![Tech Icons](https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,js,ts,nodejs,express,graphql,aws,vercel,docker,prisma,supabase,mongodb,postgres,stripe,auth0,git,github,postman)
 
 ---
 
-## 📘 Helpful Resources We Use
+## 📘 Technologies I Work With
 
-* [Next.js Documentation](https://nextjs.org/docs)
-* [Angular Docs](https://angular.io/docs)
-* [Stripe Docs](https://stripe.com/docs)
-* [AWS Docs](https://docs.aws.amazon.com/)
-* [GitHub Actions Docs](https://docs.github.com/en/actions)
-* [Markdown Guide](https://www.markdownguide.org/)
+* Next.js
+* React
+* Node.js
+* TypeScript
+* Angular
+* AWS
+* Vercel
+* Stripe
+* PostgreSQL
+* MongoDB
+* Docker
+* GitHub Actions
 
 ---
 
 ## 💼 Let’s Work Together
 
-We collaborate with **startups**, **SaaS companies**, and **enterprises** to:
+I’m open to working with **startups, SaaS companies, businesses, and agencies** to:
 
 * Build MVPs & prototypes
-* Develop production-grade platforms
-* Scale infrastructure
-* Automate workflows
+* Develop production-ready applications
+* Build SaaS platforms
+* Integrate APIs and payment systems
+* Scale existing applications
+* Automate repetitive workflows
+* Improve existing web applications
 
-📩 Drop us a message: **[sybotstack@gmail.com](mailto:sybotstack@gmail.com)**
+📩 **Let’s connect:** [joywithyash2@gmail.com](mailto:joywithyash2@gmail.com)
 
 ---
 
 ## 🍜 Fun Fact
 
-Fueled by ☕ coffee and 🍜 Maggi during late-night sprints.
-One time, we built and deployed a full **Stripe checkout flow** during lunch 😄
+Fueled by ☕ coffee and 🍜 Maggi during late-night coding sessions.
+
+I enjoy turning complex ideas into simple, scalable, and useful products.
